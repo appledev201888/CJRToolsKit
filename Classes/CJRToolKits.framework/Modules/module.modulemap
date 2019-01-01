@@ -1,0 +1,6 @@
+framework module CJRToolKits {
+  umbrella header "CJRToolKits.h"
+
+  export *
+  module * { export * }
+}
